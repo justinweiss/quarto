@@ -67,6 +67,8 @@ these instructions will not work.
    this:
 
     ```ruby
+    source 'https://rubygems.org'
+    
     gem 'rake'
     gem 'quarto', github: 'avdi/quarto'
     ```
